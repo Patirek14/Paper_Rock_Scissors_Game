@@ -60,3 +60,6 @@ elif playerPoints == comPoints:
     print("REMIS")
 else:
     print("COMPUTER HAS WON")
+
+  #MADE BY PATIREK 14  
+    
